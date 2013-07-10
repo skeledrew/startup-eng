@@ -4218,3 +4218,4 @@ Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
 4644270..4644986	-	238	388480336	arcA	Y75_p4285	-	-	DNA-binding response regulator in two-component regulatory system with ArcB or CpxA
 4645082..4645222	+	46	388480337	yjjY	Y75_p4286	-	-	hypothetical protein
 4645622..4646308	+	228	388480338	yjtD	Y75_p4287	-	-	rRNA methyltransferase
+This is getting interesting
